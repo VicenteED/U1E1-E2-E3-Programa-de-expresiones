@@ -37,9 +37,9 @@ def menu():
         else:
             print("No es una opción valida")
 
-def main():
-    menu()
+
+    
 
 
-if __name__ == '_main_':
+if __name__ == '__main__':
     menu()
